@@ -1,8 +1,5 @@
 son wina
 son daraina
 son paramira
-<<<<<<< HEAD
-Fus
-=======
 
->>>>>>> feature
+YEs Conflicts!!!!!
